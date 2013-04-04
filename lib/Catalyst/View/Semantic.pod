@@ -2,7 +2,7 @@
 
 =head1 NAME
 
-   Catalyst::View::Semantic - L<Template::Semantic> view for L<Catalyst>
+Catalyst::View::Semantic - L<Template::Semantic> view for L<Catalyst>
 
 =head1 SYNOPSIS
 
@@ -65,7 +65,7 @@ that's it.
 
 =head1 DESCRIPTION
 
-    This is L<Catalyst> view class for L<Template::Semantic> with sane (hopefully) defaults and some useful methods like html layout and pager. Feel free to extend your view. Check the L<Template::Semantic::Cookbook> and source of this module.
+This is L<Catalyst> view class for L<Template::Semantic> with sane (hopefully) defaults and some useful methods like html layout and pager. Feel free to extend your view. Check the L<Template::Semantic::Cookbook> and source of this module.
 
 =head1 ATTRIBUTES
 
